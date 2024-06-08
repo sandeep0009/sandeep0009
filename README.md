@@ -3,9 +3,7 @@
 
 
 
-- 🔭 I’m currently working on **Todo APP**
 
-- 🌱 I’m currently learning **React.js**
 
 - 💬 Ask me about **javascript,java,c++,react.js**
 
