@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sandeep Kumar Shah</h1>
-<h3 align="center">A passionate MERN developer from India</h3>
+<h3 align="center">Building scalable web application using MERN stack,Next.Js,Docker,AWS</h3>
 
-
-
-
-
-- 💬 Ask me about **javascript,java,c++,react.js**
+- 💬 Ask me about **javascript,java,c++,react.js,next.js**
 
 - 📫 How to reach me **500sandeepks@gmail.com**
 
