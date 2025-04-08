@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sandeep Kumar Shah</h1>
 <h3 align="center">Building scalable web application using MERN stack,Next.Js,Docker,AWS</h3>
 
-- 💬 Ask me about **javascript,java,c++,react.js,next.js**
+- 💬 Ask me about **javascript,TypeScript,react.js,next.js,AWS,Docker,Ci/CD**
 
 - 📫 How to reach me **500sandeepks@gmail.com**
 
